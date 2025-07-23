@@ -52,9 +52,15 @@ A complete Data Science project for **predicting Coca-Cola (KO) stock prices** u
 ---
 💡 Future Enhancements
 Implement LSTM or Prophet for time-series forecasting
+
 Add RSI, MACD, Bollinger Bands
+
 Integrate financial ratios (P/E, EPS, Dividend Yield)
+
 Deploy app to Streamlit Cloud or Heroku
+
+---
+
 
 
 
