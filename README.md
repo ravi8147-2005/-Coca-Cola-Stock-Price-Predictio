@@ -4,9 +4,6 @@ A complete Data Science project for **predicting Coca-Cola (KO) stock prices** u
 
 ---
 
-
----
-
 ## 🧠 Tech Stack
 
 - **Python** (Pandas, NumPy, Scikit-learn)
@@ -25,8 +22,6 @@ A complete Data Science project for **predicting Coca-Cola (KO) stock prices** u
 - 🧪 Correlation & EDA (Heatmaps, Volume, Volatility)
 - 📈 Live prediction using trained ML model
 - 🕯️ Candlestick charts, volume overlays, and interactive Plotly graphs
-
----
 
 ---
 
