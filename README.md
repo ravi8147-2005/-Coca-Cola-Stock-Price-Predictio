@@ -28,5 +28,36 @@ A complete Data Science project for **predicting Coca-Cola (KO) stock prices** u
 
 ---
 
+---
+
+## 🔍 Exploratory Analysis
+
+- **Moving Averages** (20-day, 50-day)
+- **Volatility trends**
+- **Daily returns histogram**
+- **Price trends over time**
+- **Correlation heatmap**
+
+---
+
+## 🤖 Machine Learning
+
+- **Model Used**: `RandomForestRegressor`
+- **Target Variable**: `Close` price
+- **Input Features**:
+  - `Open`, `High`, `Low`, `Volume`
+  - `MA_20`, `MA_50`, `Daily Return`, `Volatility`
+- **Evaluation**: Mean Squared Error (MSE)
+
+---
+💡 Future Enhancements
+Implement LSTM or Prophet for time-series forecasting
+Add RSI, MACD, Bollinger Bands
+Integrate financial ratios (P/E, EPS, Dividend Yield)
+Deploy app to Streamlit Cloud or Heroku
+
+
+
+
 
 
