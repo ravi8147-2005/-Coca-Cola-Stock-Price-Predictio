@@ -60,9 +60,15 @@ Integrate financial ratios (P/E, EPS, Dividend Yield)
 Deploy app to Streamlit Cloud or Heroku
 
 ---
+🙌 Contributions
 
+Contributions and suggestions are welcome! Please open an issue or pull request.
 
+---
+📬 Let's Connect!  
+I’m always open to feedback, collaboration, or freelance data science and data analyst projects.
 
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/rudrappakattimani/) 
 
 
 
